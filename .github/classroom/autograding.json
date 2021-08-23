@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "01IdentificaSigno",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/01IdentificaSigno",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "02Licencia",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/02Licencia",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "03TipoTriangulo",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/03TipoTriangulo",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "04Maximo",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/04Maximo",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "06BMI",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/06BMI",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    }
+  ]
+}
